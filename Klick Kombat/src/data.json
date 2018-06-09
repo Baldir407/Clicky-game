@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "image": "assets/images/cyrax.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "assets/images/jax.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "assets/images/kabal.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "assets/images/kano.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "assets/images/kung-lao.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "assets/images/liu-kang.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "assets/images/sonya.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "assets/images/stryker.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "assets/images/sub-zero.png",
+        "clicked": false
+    }
+]
