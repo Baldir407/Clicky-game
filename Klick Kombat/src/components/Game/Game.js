@@ -1,6 +1,6 @@
 // This component stores the games logic
 import React, { Component } from "react";
-import Nav from "../Nav";
+import Navbar from "../Navbar";
 import Header from "../Header";
 import Container from "../Container";
 import ClickItem from "../ClickItem";
@@ -74,7 +74,7 @@ class Game extends Component {
   render() {
     return (
       <div>
-        <Nav score={this.state.score} topScore={this.state.topScore} />
+        <Navbar score={this.state.score} topScore={this.state.topScore} />
         <Header />
         <Container>
           {this.state.data.map(item => (
