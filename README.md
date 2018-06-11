@@ -1,4 +1,4 @@
-# Clicky-game
+# React Click Game
 
 This is a quick memory game made in React called
 
